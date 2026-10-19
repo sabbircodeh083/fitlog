@@ -29,12 +29,12 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Available Scripts
 
-| Command | Description |
-| --- | --- |
-| `npm run dev` | Start the local development server. |
-| `npm run build` | Create a production build. |
-| `npm start` | Run the production server after building. |
-| `npm run lint` | Run ESLint. |
+| Command         | Description                               |
+| --------------- | ----------------------------------------- |
+| `npm run dev`   | Start the local development server.       |
+| `npm run build` | Create a production build.                |
+| `npm start`     | Run the production server after building. |
+| `npm run lint`  | Run ESLint.                               |
 
 ## Using FitLog
 
