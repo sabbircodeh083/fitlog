@@ -64,3 +64,6 @@ src/
 	components/   Exercise, plan, navigation, and footer components
 	Contexts/     Shared exercise-plan state
 ```
+## Live link 
+
+https://fitlog-rho-flame.vercel.app/
